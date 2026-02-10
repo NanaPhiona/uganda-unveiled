@@ -3,7 +3,7 @@
 Welcome to the official repository for **Uganda Unveiled**, a high-performance, responsive travel guide dedicated to showcasing the beauty of the Pearl of Africa. This project is built to provide travelers with independent, honest, and high-quality information.
 
 ## 🚀 Live Site
-Check out the live guide here: **[Insert Your Domain/GitHub Pages Link Here]**
+Check out the live guide here: https://nanaphiona.github.io/uganda-unveiled/
 
 ## ✨ Key Features
 - **Top 10 Curated Sites:** In-depth descriptions of Uganda's premier destinations (Bwindi, Murchison Falls, etc.).
