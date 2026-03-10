@@ -21,10 +21,5 @@ Check out the live guide here: https://nanaphiona.github.io/uganda-unveiled/
 - `index.html`: The main landing page containing the full site structure and CSS.
 - `favicon.png`: Brand identity icon (Gorilla silhouette).
 
-## 🤝 Support & Consultation
-This project is 100% independent. If you find this guide useful or need a personalized travel itinerary:
-- **Support me on Ko-fi:** [Insert Ko-fi Link]
-- **WhatsApp Consultation:** [Insert WhatsApp Link]
-
 ## 📄 License
 This project is open-source. Feel free to use the code for inspiration, but please note that the travel descriptions and editorial content are copyrighted to **Uganda Unveiled**.
